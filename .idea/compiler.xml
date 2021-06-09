@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="yjf-common" />
+        <module name="registry" />
+        <module name="config" />
+        <module name="yjf-item-instance" />
+        <module name="yjf-core" />
+        <module name="yjf-item-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="config" target="1.8" />
+      <module name="registry" target="1.8" />
+      <module name="shoppingmall" target="1.8" />
+      <module name="yjf-common" target="1.8" />
+      <module name="yjf-core" target="1.8" />
+      <module name="yjf-item" target="1.8" />
+      <module name="yjf-item-instance" target="1.8" />
+      <module name="yjf-item-service" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="config" options="-parameters" />
+      <module name="registry" options="-parameters" />
+      <module name="shoppingmall" options="-parameters" />
+      <module name="yjf-common" options="-parameters" />
+      <module name="yjf-core" options="-parameters" />
+      <module name="yjf-item" options="-parameters" />
+      <module name="yjf-item-instance" options="-parameters" />
+      <module name="yjf-item-service" options="-parameters" />
+    </option>
+  </component>
+</project>

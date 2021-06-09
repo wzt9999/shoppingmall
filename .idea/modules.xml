@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/config/config.iml" filepath="$PROJECT_DIR$/config/config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/registry/registry.iml" filepath="$PROJECT_DIR$/registry/registry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shoppingmall.iml" filepath="$PROJECT_DIR$/shoppingmall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yjf-common/yjf-common.iml" filepath="$PROJECT_DIR$/yjf-common/yjf-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yjf-core/yjf-core.iml" filepath="$PROJECT_DIR$/yjf-core/yjf-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yjf-item/yjf-item.iml" filepath="$PROJECT_DIR$/yjf-item/yjf-item.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yjf-item/yjf-item-instance/yjf-item-instance.iml" filepath="$PROJECT_DIR$/yjf-item/yjf-item-instance/yjf-item-instance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yjf-item/yjf-item-service/yjf-item-service.iml" filepath="$PROJECT_DIR$/yjf-item/yjf-item-service/yjf-item-service.iml" />
+    </modules>
+  </component>
+</project>
